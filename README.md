@@ -1,11 +1,11 @@
-# 🌟 FC Barcelona Website
+# FC Barcelona Website
 
 This is a website built with **React** and **TypeScript**, dedicated to presenting information about the football club **FC Barcelona**.  
 The site contains pages about the **team**, the **club’s history**, and the official **kits**.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Home Page (`Home.tsx`)**
   - Custom background image of FC Barcelona.
