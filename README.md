@@ -7,18 +7,18 @@ The site contains pages about the **team**, the **club’s history**, and the of
 
 ## Features
 
-- **Home Page (`Home.tsx`)**
+- **Home Page**
   - Custom background image of FC Barcelona.
   - Welcome message with styled design.
   - Navigation buttons to **Team**, **History**, and **Kits** pages.
   - Official **UEFA Champions League** and **La Liga** logos displayed on screen.
 
-- **History Page (`History.tsx`)**
+- **History Page**
   - Background image for a historic look.
   - Detailed description of FC Barcelona’s history, from its founding to the modern era.
   - Text displayed inside a transparent container for better readability.
 
-- **Kits Page (`Kits.tsx`)**
+- **Kits Page**
   - Custom background image.
   - Presentation of official FC Barcelona kits:
     - **Home Kit**
@@ -26,7 +26,7 @@ The site contains pages about the **team**, the **club’s history**, and the of
     - **Third Kit**
   - Each kit has a title and an image.
 
-- **Team Page (`Team.tsx`)**
+- **Team Page**
   - List of current FC Barcelona players.
   - Each player is shown with their **name** and **official photo**.
   - Responsive layout using flexbox for a clean display.  
